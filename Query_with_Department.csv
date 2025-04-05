@@ -1,0 +1,501 @@
+User Query,Action,Resource Sensitivity,Department
+Make some changes to the AI sales playbook document.,edit,Restricted,Sales
+Edit the public open source contribution policy for publication.,edit,Public,HR
+Share the security policy on the public portal.,share,Public,IT
+Can you get the quota planning for me from the team folder?,download,Restricted,Sales
+Please share the performance review criteria with department heads.,share,Restricted,HR
+Forward the NDA template to the team.,share,Restricted,Legal Department
+Please open the public reconciliation procedures file.,read,Public,Finance
+Download the sales playbook from the website.,download,Public,Sales
+Erase all versions of the remote work policy document.,delete,Confidential,HR
+Update the incident response plan to include new figures.,edit,Confidential,IT
+Please delete the sensitive cloud setup guide file.,delete,Confidential,IT
+Delete the outdated territory allocation file from the restricted folder.,delete,Restricted,Unknown
+I want to save the public open source contribution policy document.,download,Public,HR
+Can you get the vendor checklist for me from the team folder?,download,Restricted,Operations
+Download the vendor checklist for internal use only.,download,Confidential,Operations
+Permanently delete the incident response plan from the records.,delete,Restricted,IT
+Download the security policy for internal use only.,download,Confidential,IT
+Permanently delete the code of conduct from the records.,delete,Restricted,Engineering
+Can you get the DEI strategy for me from the team folder?,download,Restricted,Unknown
+Please download the budget preparation document from the restricted area.,download,Restricted,Finance
+Please delete the sensitive DEI strategy file.,delete,Confidential,Unknown
+Download the DEI strategy from the website.,download,Public,Unknown
+Please share the cloud setup guide with department heads.,share,Restricted,IT
+Let me read the confidential open source contribution policy document.,read,Confidential,HR
+I want to save the public territory allocation document.,download,Public,Unknown
+Can you get the quota planning for me from the team folder?,download,Restricted,Sales
+Revise the confidential system architecture report.,edit,Confidential,Engineering
+Can I delete the general financial statements document?,delete,Public,Finance
+Share the reconciliation procedures only with the leadership team.,share,Confidential,Finance
+Read the system architecture and summarize it.,read,Public,Engineering
+Read the incident response plan and summarize it.,read,Public,IT
+Let me read the confidential reconciliation procedures document.,read,Confidential,Finance
+I'd like to read the system architecture document.,read,Public,Engineering
+Please share the DEI strategy with department heads.,share,Restricted,Unknown
+Apply the necessary updates to the quota planning.,edit,Restricted,Sales
+I'd like to read the open source contribution policy document.,read,Public,HR
+Publish the open source contribution policy online.,share,Public,HR
+Remove the device provisioning from the system immediately.,delete,Confidential,IT
+Please delete the sensitive territory allocation file.,delete,Confidential,Unknown
+Can I download the general incident response plan now?,download,Public,IT
+Can I delete the general budget preparation document document?,delete,Public,Finance
+Download the sensitive incident response plan document from the vault.,download,Confidential,IT
+Apply the necessary updates to the open source contribution policy.,edit,Restricted,HR
+Can I delete the general device provisioning document?,delete,Public,IT
+I need to fetch the cloud setup guide file for analysis.,download,Restricted,IT
+Can you edit the restricted territory allocation file?,edit,Restricted,Unknown
+I'd like to read the system architecture document.,read,Public,Engineering
+Publish the device provisioning online.,share,Public,IT
+I'd like to read the AI sales playbook from the archive.,read,Restricted,Sales
+Download the sensitive device provisioning document from the vault.,download,Confidential,IT
+Forward the system architecture to the team.,share,Restricted,Engineering
+Publish the reconciliation procedures online.,share,Public,Finance
+Open and display the quota planning report.,read,Confidential,Sales
+Let me read the confidential security policy document.,read,Confidential,IT
+Make some changes to the vendor checklist document.,edit,Restricted,Operations
+Share the reconciliation procedures on the public portal.,share,Public,Finance
+Modify the performance review criteria as needed.,edit,Public,HR
+Can I download the general budget preparation document now?,download,Public,Finance
+Can I download the general performance review criteria now?,download,Public,HR
+Please delete the sensitive quota planning file.,delete,Confidential,Sales
+Can you edit the restricted incident response plan file?,edit,Restricted,IT
+Show me the restricted onboarding guide now.,read,Restricted,Engineering
+Share the territory allocation on the public portal.,share,Public,Unknown
+Send the device provisioning to the restricted group.,share,Restricted,IT
+I need to review the AI sales playbook before the meeting.,read,Confidential,Sales
+Download the DEI strategy from the website.,download,Public,Unknown
+Please download the system architecture from the restricted area.,download,Restricted,Engineering
+Can you get the reconciliation procedures for me from the team folder?,download,Restricted,Finance
+Delete the quota planning PDF from downloads.,delete,Public,Sales
+Let me read the confidential NDA template document.,read,Confidential,Legal Department
+Make revisions to the general performance review criteria.,edit,Public,HR
+Modify the sales playbook as needed.,edit,Public,Sales
+Can you edit the restricted onboarding guide file?,edit,Restricted,Engineering
+Can I delete the general NDA template document?,delete,Public,Legal Department
+Please delete the sensitive territory allocation file.,delete,Confidential,Unknown
+Can I delete the general open source contribution policy document?,delete,Public,HR
+Forward the open source contribution policy to the team.,share,Restricted,HR
+Distribute the quota planning to the core team securely.,share,Confidential,Sales
+Edit the public vendor checklist for publication.,edit,Public,Operations
+Can you get the budget preparation document for me from the team folder?,download,Restricted,Finance
+Download the sensitive open source contribution policy document from the vault.,download,Confidential,HR
+Download the onboarding guide from the website.,download,Public,Engineering
+Please share the cloud setup guide with department heads.,share,Restricted,IT
+Share the device provisioning on the public portal.,share,Public,IT
+Download the incident response plan from the website.,download,Public,IT
+Can I delete the general remote work policy document?,delete,Public,HR
+Can you edit the restricted security policy file?,edit,Restricted,IT
+Please delete the sensitive open source contribution policy file.,delete,Confidential,HR
+Make revisions to the general budget preparation document.,edit,Public,Finance
+Distribute the performance review criteria to all employees.,share,Public,HR
+Edit the sensitive security policy file immediately.,edit,Confidential,IT
+Make some changes to the sales playbook document.,edit,Restricted,Sales
+I'd like to read the territory allocation from the archive.,read,Restricted,Unknown
+Make revisions to the general NDA template.,edit,Public,Legal Department
+Show me the restricted budget preparation document now.,read,Restricted,Finance
+Permanently delete the AI sales playbook from the records.,delete,Restricted,Sales
+Send the system architecture to the restricted group.,share,Restricted,Engineering
+Share the cloud setup guide on the public portal.,share,Public,IT
+Publish the DEI strategy online.,share,Public,Unknown
+Revise the confidential NDA template report.,edit,Confidential,Legal Department
+Please delete the sensitive vendor checklist file.,delete,Confidential,Operations
+Please share the device provisioning with department heads.,share,Restricted,IT
+Forward the territory allocation to the team.,share,Restricted,Unknown
+I'd like to read the onboarding guide from the archive.,read,Restricted,Engineering
+Can you get the code of conduct for me from the team folder?,download,Restricted,Engineering
+I want to save the public NDA template document.,download,Public,Legal Department
+Can I delete the general vendor checklist document?,delete,Public,Operations
+Can I delete the general performance review criteria document?,delete,Public,HR
+Publish the remote work policy online.,share,Public,HR
+Download the NDA template from the website.,download,Public,Legal Department
+Access the reconciliation procedures and show it to me.,read,Restricted,Finance
+I want to save the public onboarding guide document.,download,Public,Engineering
+Please open the public incident response plan file.,read,Public,IT
+Remove the publicly available AI sales playbook from the site.,delete,Public,Sales
+Permanently delete the quota planning from the records.,delete,Restricted,Sales
+Download the system architecture for internal use only.,download,Confidential,Engineering
+Remove the publicly available territory allocation from the site.,delete,Public,Unknown
+Let me read the confidential system architecture document.,read,Confidential,Engineering
+Forward the system architecture to the team.,share,Restricted,Engineering
+Get a copy of the confidential budget preparation document.,download,Confidential,Finance
+Send the NDA template to the restricted group.,share,Restricted,Legal Department
+Edit the sensitive financial statements file immediately.,edit,Confidential,Finance
+Can we remove the old cloud setup guide doc from shared resources?,delete,Restricted,IT
+Distribute the DEI strategy to all employees.,share,Public,Unknown
+Share the DEI strategy on the public portal.,share,Public,Unknown
+Can we remove the old remote work policy doc from shared resources?,delete,Restricted,HR
+I'd like to read the device provisioning from the archive.,read,Restricted,IT
+Distribute the incident response plan to all employees.,share,Public,IT
+Show me the restricted open source contribution policy now.,read,Restricted,HR
+Please share the code of conduct with department heads.,share,Restricted,Engineering
+Make revisions to the general cloud setup guide.,edit,Public,IT
+Update the AI sales playbook to include new figures.,edit,Confidential,Sales
+Send the financial statements to the restricted group.,share,Restricted,Finance
+Download the sensitive system architecture document from the vault.,download,Confidential,Engineering
+Download the sensitive security policy document from the vault.,download,Confidential,IT
+Make some changes to the sales playbook document.,edit,Restricted,Sales
+Publish the territory allocation online.,share,Public,Unknown
+Update the incident response plan to include new figures.,edit,Confidential,IT
+Download the budget preparation document for internal use only.,download,Confidential,Finance
+Edit the public vendor checklist for publication.,edit,Public,Operations
+Share the vendor checklist only with the leadership team.,share,Confidential,Operations
+Update the performance review criteria to include new figures.,edit,Confidential,HR
+Edit the sensitive onboarding guide file immediately.,edit,Confidential,Engineering
+Remove the publicly available code of conduct from the site.,delete,Public,Engineering
+Let me read the confidential AI sales playbook document.,read,Confidential,Sales
+Publish the budget preparation document online.,share,Public,Finance
+Open and display the onboarding guide report.,read,Confidential,Engineering
+Forward the territory allocation to the team.,share,Restricted,Unknown
+Remove the publicly available device provisioning from the site.,delete,Public,IT
+Permanently delete the territory allocation from the records.,delete,Restricted,Unknown
+Share the budget preparation document only with the leadership team.,share,Confidential,Finance
+Modify the open source contribution policy as needed.,edit,Public,HR
+Let me read the confidential vendor checklist document.,read,Confidential,Operations
+I need to review the territory allocation before the meeting.,read,Confidential,HR
+Remove the cloud setup guide from the system immediately.,delete,Confidential,IT
+Show me the restricted onboarding guide now.,read,Restricted,Engineering
+Can I download the general incident response plan now?,download,Public,IT
+Remove the publicly available financial statements from the site.,delete,Public,Finance
+I'd like to read the reconciliation procedures document.,read,Public,Finance
+Send the system architecture to the restricted group.,share,Restricted,Engineering
+Can we remove the old AI sales playbook doc from shared resources?,delete,Restricted,Sales
+Please share the budget preparation document with department heads.,share,Restricted,Finance
+Access the financial statements and show it to me.,read,Restricted,Finance
+Please download the quota planning from the restricted area.,download,Restricted,Sales
+I need to fetch the budget preparation document file for analysis.,download,Restricted,Finance
+Download the device provisioning from the website.,download,Public,IT
+I'd like to read the system architecture from the archive.,read,Restricted,Engineering
+Erase all versions of the budget preparation document document.,delete,Confidential,Finance
+Download the cloud setup guide from the website.,download,Public,IT
+Please share the AI sales playbook with department heads.,share,Restricted,Sales
+Update the financial statements to include new figures.,edit,Confidential,Finance
+Download the cloud setup guide from the website.,download,Public,IT
+Can you get the remote work policy for me from the team folder?,download,Restricted,HR
+Send the performance review criteria to the restricted group.,share,Restricted,HR
+Distribute the territory allocation to all employees.,share,Public,Unknown
+Access the performance review criteria and show it to me.,read,Restricted,HR
+Send the vendor checklist to internal stakeholders.,share,Confidential,Operations
+Access the AI sales playbook and show it to me.,read,Restricted,Sales
+I need to review the sales playbook before the meeting.,read,Confidential,Sales
+Can you get the open source contribution policy for me from the team folder?,download,Restricted,HR
+I'd like to read the quota planning document.,read,Public,Sales
+Show me the restricted device provisioning now.,read,Restricted,IT
+Can you edit the restricted security policy file?,edit,Restricted,IT
+I'd like to read the system architecture from the archive.,read,Restricted,Engineering
+Share the financial statements on the public portal.,share,Public,Finance
+Revise the confidential vendor checklist report.,edit,Confidential,Operations
+I need to fetch the system architecture file for analysis.,download,Restricted,Engineering
+I'd like to read the vendor checklist document.,read,Public,Operations
+Can we remove the old quota planning doc from shared resources?,delete,Restricted,Sales
+Remove the publicly available budget preparation document from the site.,delete,Public,Finance
+Apply the necessary updates to the reconciliation procedures.,edit,Restricted,Finance
+Distribute the incident response plan to the core team securely.,share,Confidential,IT
+Download the NDA template for internal use only.,download,Confidential,Legal Department
+Apply the necessary updates to the quota planning.,edit,Restricted,Sales
+I'd like to read the quota planning from the archive.,read,Restricted,Sales
+Modify the budget preparation document as needed.,edit,Public,Finance
+I want to save the public performance review criteria document.,download,Public,HR
+Read the security policy and summarize it.,read,Public,IT
+Forward the system architecture to the team.,share,Restricted,Engineering
+Permanently delete the financial statements from the records.,delete,Restricted,Finance
+Please share the reconciliation procedures with department heads.,share,Restricted,Finance
+Publish the financial statements online.,share,Public,Finance
+Please download the NDA template from the restricted area.,download,Restricted,Legal Department
+Please open the public incident response plan file.,read,Public,IT
+I'd like to read the quota planning from the archive.,read,Restricted,Sales
+Edit the sensitive vendor checklist file immediately.,edit,Confidential,Operations
+Get a copy of the confidential DEI strategy.,download,Confidential,Unknown
+Download the onboarding guide for internal use only.,download,Confidential,Engineering
+Delete the outdated incident response plan file from the restricted folder.,delete,Restricted,IT
+Send the NDA template to the restricted group.,share,Restricted,Legal Department
+Can I download the general AI sales playbook now?,download,Public,Sales
+I'd like to read the onboarding guide from the archive.,read,Restricted,Engineering
+Publish the quota planning online.,share,Public,Sales
+Permanently delete the open source contribution policy from the records.,delete,Restricted,HR
+Publish the budget preparation document online.,share,Public,Finance
+Download the budget preparation document for internal use only.,download,Confidential,Finance
+Remove the incident response plan from the system immediately.,delete,Confidential,IT
+I'd like to read the system architecture from the archive.,read,Restricted,Engineering
+Send the sales playbook to internal stakeholders.,share,Confidential,Sales
+Edit the sensitive security policy file immediately.,edit,Confidential,IT
+Please download the vendor checklist from the restricted area.,download,Restricted,Operations
+Revise the confidential device provisioning report.,edit,Confidential,IT
+Download the open source contribution policy for internal use only.,download,Confidential,HR
+Please share the remote work policy with department heads.,share,Restricted,HR
+Erase all versions of the budget preparation document document.,delete,Confidential,Finance
+Make some changes to the onboarding guide document.,edit,Restricted,Engineering
+Please download the incident response plan from the restricted area.,download,Restricted,IT
+Access the cloud setup guide and show it to me.,read,Restricted,IT
+Download the system architecture from the website.,download,Public,Engineering
+Get a copy of the confidential incident response plan.,download,Confidential,IT
+Edit the sensitive incident response plan file immediately.,edit,Confidential,IT
+Can I delete the general performance review criteria document?,delete,Public,HR
+Make some changes to the vendor checklist document.,edit,Restricted,Operations
+Erase all versions of the remote work policy document.,delete,Confidential,HR
+Download the sensitive performance review criteria document from the vault.,download,Confidential,HR
+Can you get the device provisioning for me from the team folder?,download,Restricted,IT
+Apply the necessary updates to the AI sales playbook.,edit,Restricted,Sales
+Make some changes to the code of conduct document.,edit,Restricted,Engineering
+Open and display the system architecture report.,read,Confidential,Engineering
+Can we remove the old remote work policy doc from shared resources?,delete,Restricted,HR
+Download the cloud setup guide from the website.,download,Public,IT
+Please share the quota planning with department heads.,share,Restricted,Sales
+I'd like to read the vendor checklist from the archive.,read,Restricted,Operations
+Please delete the sensitive sales playbook file.,delete,Confidential,Sales
+Revise the confidential quota planning report.,edit,Confidential,Sales
+I'd like to read the territory allocation from the archive.,read,Restricted,Unknown
+Can I download the general onboarding guide now?,download,Public,Engineering
+I need to review the onboarding guide before the meeting.,read,Confidential,Engineering
+Make revisions to the general onboarding guide.,edit,Public,Engineering
+Please share the budget preparation document with department heads.,share,Restricted,Finance
+Send the device provisioning to internal stakeholders.,share,Confidential,IT
+Publish the cloud setup guide online.,share,Public,IT
+Apply the necessary updates to the territory allocation.,edit,Restricted,Unknown
+Share the performance review criteria only with the leadership team.,share,Confidential,HR
+Distribute the territory allocation to all employees.,share,Public,Unknown
+I'd like to read the cloud setup guide document.,read,Public,IT
+I'd like to read the incident response plan document.,read,Public,IT
+Share the code of conduct on the public portal.,share,Public,Engineering
+Please open the public reconciliation procedures file.,read,Public,Finance
+Permanently delete the device provisioning from the records.,delete,Restricted,IT
+Get a copy of the confidential device provisioning.,download,Confidential,IT
+I need to fetch the open source contribution policy file for analysis.,download,Restricted,HR
+Let me read the confidential onboarding guide document.,read,Confidential,Engineering
+Can you edit the restricted financial statements file?,edit,Restricted,Finance
+Permanently delete the budget preparation document from the records.,delete,Restricted,Finance
+Apply the necessary updates to the sales playbook.,edit,Restricted,Sales
+I'd like to read the incident response plan from the archive.,read,Restricted,IT
+Download the sensitive open source contribution policy document from the vault.,download,Confidential,HR
+Erase all versions of the AI sales playbook document.,delete,Confidential,Sales
+Modify the sales playbook as needed.,edit,Public,Sales
+Edit the sensitive reconciliation procedures file immediately.,edit,Confidential,Finance
+I'd like to read the security policy from the archive.,read,Restricted,IT
+Can I download the general budget preparation document now?,download,Public,Finance
+Please share the cloud setup guide with department heads.,share,Restricted,IT
+Please open the public incident response plan file.,read,Public,IT
+Share the vendor checklist on the public portal.,share,Public,Operations
+Download the AI sales playbook from the website.,download,Public,Sales
+Can I download the general onboarding guide now?,download,Public,Engineering
+Permanently delete the open source contribution policy from the records.,delete,Restricted,HR
+Download the sensitive system architecture document from the vault.,download,Confidential,Engineering
+Remove the system architecture from the system immediately.,delete,Confidential,Engineering
+Show me the restricted quota planning now.,read,Restricted,Sales
+Make some changes to the reconciliation procedures document.,edit,Restricted,Finance
+Remove the open source contribution policy from the system immediately.,delete,Confidential,HR
+Delete the outdated open source contribution policy file from the restricted folder.,delete,Restricted,HR
+Show me the restricted budget preparation document now.,read,Restricted,Finance
+I want to save the public open source contribution policy document.,download,Public,HR
+Please share the device provisioning with department heads.,share,Restricted,IT
+Make revisions to the general security policy.,edit,Public,IT
+Make some changes to the sales playbook document.,edit,Restricted,Sales
+Can you get the cloud setup guide for me from the team folder?,download,Restricted,IT
+Remove the security policy from the system immediately.,delete,Confidential,IT
+Let me read the confidential system architecture document.,read,Confidential,Engineering
+Delete the sales playbook PDF from downloads.,delete,Public,Sales
+Can I delete the general AI sales playbook document?,delete,Public,Sales
+Forward the reconciliation procedures to the team.,share,Restricted,Finance
+Share the quota planning only with the leadership team.,share,Confidential,Sales
+Share the AI sales playbook on the public portal.,share,Public,Sales
+Edit the sensitive security policy file immediately.,edit,Confidential,IT
+Download the incident response plan for internal use only.,download,Confidential,IT
+Can you get the device provisioning for me from the team folder?,download,Restricted,IT
+Can we remove the old cloud setup guide doc from shared resources?,delete,Restricted,IT
+Revise the confidential quota planning report.,edit,Confidential,Sales
+Publish the cloud setup guide online.,share,Public,IT
+Share the incident response plan on the public portal.,share,Public,IT
+Delete the code of conduct PDF from downloads.,delete,Public,Engineering
+Can we remove the old code of conduct doc from shared resources?,delete,Restricted,Engineering
+Remove the sales playbook from the system immediately.,delete,Confidential,Sales
+Get a copy of the confidential financial statements.,download,Confidential,Finance
+Download the NDA template from the website.,download,Public,Legal Department
+Erase all versions of the onboarding guide document.,delete,Confidential,Engineering
+Open and display the remote work policy report.,read,Confidential,HR
+Get a copy of the confidential device provisioning.,download,Confidential,IT
+Apply the necessary updates to the vendor checklist.,edit,Restricted,Operations
+Share the NDA template on the public portal.,share,Public,Legal Department
+Make revisions to the general onboarding guide.,edit,Public,Engineering
+Can you get the incident response plan for me from the team folder?,download,Restricted,IT
+Make some changes to the security policy document.,edit,Restricted,IT
+Make revisions to the general territory allocation.,edit,Public,Unknown
+Can I download the general system architecture now?,download,Public,Engineering
+Send the onboarding guide to the restricted group.,share,Restricted,Engineering
+Get a copy of the confidential financial statements.,download,Confidential,Finance
+Publish the sales playbook online.,share,Public,Sales
+Make some changes to the NDA template document.,edit,Restricted,Legal Department
+Edit the public DEI strategy for publication.,edit,Public,Unknown
+I'd like to read the security policy document.,read,Public,IT
+Show me the restricted vendor checklist now.,read,Restricted,Operations
+Download the sensitive code of conduct document from the vault.,download,Confidential,Engineering
+Remove the sales playbook from the system immediately.,delete,Confidential,Sales
+Delete the outdated incident response plan file from the restricted folder.,delete,Restricted,IT
+Erase all versions of the quota planning document.,delete,Confidential,Sales
+Delete the outdated budget preparation document file from the restricted folder.,delete,Restricted,Finance
+Share the onboarding guide on the public portal.,share,Public,Engineering
+Download the sensitive vendor checklist document from the vault.,download,Confidential,Operations
+Get a copy of the confidential sales playbook.,download,Confidential,Sales
+Access the DEI strategy and show it to me.,read,Restricted,Unknown
+Download the remote work policy for internal use only.,download,Confidential,HR
+Can I delete the general NDA template document?,delete,Public,Legal Department
+Can you get the sales playbook for me from the team folder?,download,Restricted,Sales
+Get a copy of the confidential onboarding guide.,download,Confidential,Engineering
+I need to fetch the onboarding guide file for analysis.,download,Restricted,Engineering
+I need to review the budget preparation document before the meeting.,read,Confidential,Finance
+Edit the sensitive performance review criteria file immediately.,edit,Confidential,HR
+Send the vendor checklist to internal stakeholders.,share,Confidential,Operations
+Can I delete the general remote work policy document?,delete,Public,HR
+Please delete the sensitive vendor checklist file.,delete,Confidential,Operations
+Open and display the system architecture report.,read,Confidential,Engineering
+Please share the performance review criteria with department heads.,share,Restricted,HR
+Show me the restricted sales playbook now.,read,Restricted,Sales
+Download the sensitive performance review criteria document from the vault.,download,Confidential,HR
+Share the onboarding guide only with the leadership team.,share,Confidential,Engineering
+Download the remote work policy from the website.,download,Public,HR
+Remove the publicly available financial statements from the site.,delete,Public,Finance
+Distribute the onboarding guide to all employees.,share,Public,Engineering
+Remove the budget preparation document from the system immediately.,delete,Confidential,Finance
+Make revisions to the general quota planning.,edit,Public,Sales
+Download the onboarding guide for internal use only.,download,Confidential,Engineering
+Can you edit the restricted remote work policy file?,edit,Restricted,HR
+Can I delete the general code of conduct document?,delete,Public,Engineering
+Access the vendor checklist and show it to me.,read,Restricted,Operations
+Download the sales playbook for internal use only.,download,Confidential,Sales
+Make revisions to the general reconciliation procedures.,edit,Public,Finance
+Distribute the vendor checklist to all employees.,share,Public,Operations
+Please open the public remote work policy file.,read,Public,HR
+Erase all versions of the financial statements document.,delete,Confidential,Finance
+Publish the vendor checklist online.,share,Public,Operations
+Permanently delete the onboarding guide from the records.,delete,Restricted,Engineering
+Show me the restricted incident response plan now.,read,Restricted,IT
+Please share the performance review criteria with department heads.,share,Restricted,HR
+Download the quota planning from the website.,download,Public,Sales
+Can you get the performance review criteria for me from the team folder?,download,Restricted,HR
+Can I download the general territory allocation now?,download,Public,Unknown
+Modify the budget preparation document as needed.,edit,Public,Finance
+Please share the performance review criteria with department heads.,share,Restricted,HR
+Download the sensitive onboarding guide document from the vault.,download,Confidential,Engineering
+Get a copy of the confidential system architecture.,download,Confidential,Engineering
+Please share the cloud setup guide with department heads.,share,Restricted,IT
+Can you edit the restricted AI sales playbook file?,edit,Restricted,Sales
+Delete the outdated DEI strategy file from the restricted folder.,delete,Restricted,Unknown
+Make some changes to the vendor checklist document.,edit,Restricted,Operations
+Forward the code of conduct to the team.,share,Restricted,Engineering
+Apply the necessary updates to the DEI strategy.,edit,Restricted,Unknown
+Make revisions to the general cloud setup guide.,edit,Public,IT
+Remove the publicly available incident response plan from the site.,delete,Public,IT
+Show me the restricted open source contribution policy now.,read,Restricted,HR
+Erase all versions of the security policy document.,delete,Confidential,IT
+Read the code of conduct and summarize it.,read,Public,Engineering
+Download the onboarding guide for internal use only.,download,Confidential,Engineering
+Delete the outdated remote work policy file from the restricted folder.,delete,Restricted,HR
+Update the vendor checklist to include new figures.,edit,Confidential,Operations
+I need to review the budget preparation document before the meeting.,read,Confidential,Finance
+Publish the budget preparation document online.,share,Public,Finance
+Remove the quota planning from the system immediately.,delete,Confidential,Sales
+Download the sensitive financial statements document from the vault.,download,Confidential,Finance
+Download the cloud setup guide from the website.,download,Public,IT
+Edit the sensitive quota planning file immediately.,edit,Confidential,Sales
+Delete the outdated financial statements file from the restricted folder.,delete,Restricted,Finance
+Revise the confidential territory allocation report.,edit,Confidential,Unknown
+Update the financial statements to include new figures.,edit,Confidential,Finance
+Get a copy of the confidential sales playbook.,download,Confidential,Sales
+Edit the sensitive security policy file immediately.,edit,Confidential,IT
+Make some changes to the system architecture document.,edit,Restricted,Engineering
+Download the reconciliation procedures from the website.,download,Public,Finance
+Forward the AI sales playbook to the team.,share,Restricted,Sales
+Erase all versions of the budget preparation document document.,delete,Confidential,Finance
+Can you get the budget preparation document for me from the team folder?,download,Restricted,Finance
+Download the vendor checklist from the website.,download,Public,Operations
+Get a copy of the confidential onboarding guide.,download,Confidential,Engineering
+Apply the necessary updates to the quota planning.,edit,Restricted,Sales
+Distribute the budget preparation document to the core team securely.,share,Confidential,Finance
+Share the code of conduct only with the leadership team.,share,Confidential,Engineering
+Publish the system architecture online.,share,Public,Engineering
+Please share the open source contribution policy with department heads.,share,Restricted,HR
+Can I delete the general device provisioning document?,delete,Public,IT
+Make revisions to the general onboarding guide.,edit,Public,Engineering
+Permanently delete the remote work policy from the records.,delete,Restricted,HR
+Please delete the sensitive remote work policy file.,delete,Confidential,HR
+Delete the outdated open source contribution policy file from the restricted folder.,delete,Restricted,HR
+Download the performance review criteria for internal use only.,download,Confidential,HR
+Share the cloud setup guide only with the leadership team.,share,Confidential,IT
+Delete the cloud setup guide PDF from downloads.,delete,Public,IT
+Can I download the general onboarding guide now?,download,Public,Engineering
+Delete the DEI strategy PDF from downloads.,delete,Public,Unknown
+I'd like to read the NDA template from the archive.,read,Restricted,Legal Department
+Make revisions to the general remote work policy.,edit,Public,HR
+Share the reconciliation procedures on the public portal.,share,Public,Finance
+Please open the public AI sales playbook file.,read,Public,Sales
+Forward the performance review criteria to the team.,share,Restricted,HR
+Open and display the territory allocation report.,read,Confidential,Unknown
+Access the security policy and show it to me.,read,Restricted,IT
+Apply the necessary updates to the remote work policy.,edit,Restricted,HR
+Forward the onboarding guide to the team.,share,Restricted,Engineering
+Access the territory allocation and show it to me.,read,Restricted,Unknown
+I want to save the public system architecture document.,download,Public,Engineering
+Make revisions to the general system architecture.,edit,Public,Engineering
+Modify the budget preparation document as needed.,edit,Public,Finance
+Distribute the onboarding guide to the core team securely.,share,Confidential,Engineering
+Remove the reconciliation procedures from the system immediately.,delete,Confidential,Finance
+Download the system architecture for internal use only.,download,Confidential,Engineering
+Share the AI sales playbook only with the leadership team.,share,Confidential,Sales
+Download the sensitive code of conduct document from the vault.,download,Confidential,Engineering
+Publish the onboarding guide online.,share,Public,Engineering
+Download the performance review criteria from the website.,download,Public,HR
+Publish the sales playbook online.,share,Public,Sales
+Share the vendor checklist only with the leadership team.,share,Confidential,Operations
+Show me the restricted sales playbook now.,read,Restricted,Sales
+Revise the confidential budget preparation document report.,edit,Confidential,Finance
+Can I delete the general performance review criteria document?,delete,Public,HR
+Send the vendor checklist to the restricted group.,share,Restricted,Operations
+Share the system architecture on the public portal.,share,Public,Engineering
+Show me the restricted onboarding guide now.,read,Restricted,Engineering
+Show me the restricted open source contribution policy now.,read,Restricted,HR
+Distribute the quota planning to the core team securely.,share,Confidential,Sales
+Make revisions to the general remote work policy.,edit,Public,HR
+I need to fetch the budget preparation document file for analysis.,download,Restricted,Finance
+Can I delete the general AI sales playbook document?,delete,Public,Sales
+Make revisions to the general sales playbook.,edit,Public,Sales
+Can we remove the old security policy doc from shared resources?,delete,Restricted,IT
+Remove the publicly available security policy from the site.,delete,Public,IT
+Download the NDA template from the website.,download,Public,Legal Department
+Make revisions to the general budget preparation document.,edit,Public,Finance
+Can you edit the restricted quota planning file?,edit,Restricted,Sales
+Make some changes to the reconciliation procedures document.,edit,Restricted,Finance
+Let me read the confidential system architecture document.,read,Confidential,Engineering
+Get a copy of the confidential quota planning.,download,Confidential,Sales
+Access the reconciliation procedures and show it to me.,read,Restricted,Finance
+Edit the sensitive sales playbook file immediately.,edit,Confidential,Sales
+Download the security policy from the website.,download,Public,IT
+Edit the public vendor checklist for publication.,edit,Public,Operations
+Permanently delete the reconciliation procedures from the records.,delete,Restricted,Finance
+Remove the performance review criteria from the system immediately.,delete,Confidential,HR
+Download the sensitive financial statements document from the vault.,download,Confidential,Finance
+Share the device provisioning only with the leadership team.,share,Confidential,IT
+Open and display the DEI strategy report.,read,Confidential,Unknown
+Make some changes to the NDA template document.,edit,Restricted,Legal Department
+Permanently delete the DEI strategy from the records.,delete,Restricted,Unknown
+Share the code of conduct only with the leadership team.,share,Confidential,Engineering
+Download the sensitive NDA template document from the vault.,download,Confidential,Legal Department
+I need to review the budget preparation document before the meeting.,read,Confidential,Finance
+Access the quota planning and show it to me.,read,Restricted,Sales
+Get a copy of the confidential AI sales playbook.,download,Confidential,Sales
+Please download the AI sales playbook from the restricted area.,download,Restricted,Sales
+Download the open source contribution policy from the website.,download,Public,HR
+Read the vendor checklist and summarize it.,read,Public,Operations
+I'd like to read the device provisioning from the archive.,read,Restricted,IT
+Open and display the open source contribution policy report.,read,Confidential,HR
+Send the budget preparation document to internal stakeholders.,share,Confidential,Finance
+I need to fetch the performance review criteria file for analysis.,download,Restricted,HR
+Download the sensitive DEI strategy document from the vault.,download,Confidential,Unknown
+Can you edit the restricted budget preparation document file?,edit,Restricted,Finance
+Share the onboarding guide only with the leadership team.,share,Confidential,Engineering
+Distribute the code of conduct to the core team securely.,share,Confidential,Engineering
+Can you edit the restricted sales playbook file?,edit,Restricted,Sales
+Can you edit the restricted device provisioning file?,edit,Restricted,IT
+Remove the publicly available incident response plan from the site.,delete,Public,IT
+I need to fetch the performance review criteria file for analysis.,download,Restricted,HR
+Read the DEI strategy and summarize it.,read,Public,Unknown
+Apply the necessary updates to the reconciliation procedures.,edit,Restricted,Finance
+Delete the territory allocation PDF from downloads.,delete,Public,Unknown
+I'd like to read the sales playbook from the archive.,read,Restricted,Sales
